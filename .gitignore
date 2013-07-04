@@ -5,3 +5,4 @@
 /XParser.o
 /XTree.o
 /xdiff
+*.o
